@@ -1,7 +1,7 @@
 osu! "Argon" Pro Max (2024) [Modified by Neko] (Tgl Studio)
 
 請至我的Github頁面下載最新版本！
-https://github.com/JonasTgl/osu-Argon-Pro-Max-2024/releases
+https://github.com/NekoTgl/osuArgonProMax2024
 
 【更新日誌】
 2024/09/01
