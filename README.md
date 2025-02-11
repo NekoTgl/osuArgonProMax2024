@@ -1,8 +1,8 @@
 # osu! Argon Pro Max (2024)
-- 編制: Neko Tgl
-- 發行: Neko Tgl
+- 原作: Team osu!
+- 二創: Neko Tgl
 ## 簡介
-- 這是一個更專業的osu! Skin，基於 `osu! Argon Pro (2022)` 所編制。
+- 這是一個更專業的osu! Skin，基於 `osu! Argon Pro (2022)` 所製作。
 - 可以進入右側之`Release`頁面查看所有發行版本！
 ## 安裝方式
 1. 進入右側 `Release` 頁面中選擇你要的版本
