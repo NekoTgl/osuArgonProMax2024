@@ -4,7 +4,7 @@
 ## 簡介
 - 這是一個更專業的osu! Skin，基於 `osu! Argon Pro (2022)` 所製作。
 - 可以進入右側之`Release`頁面查看所有發行版本！
-## 安裝方式
+## 安裝步驟
 1. 進入右側 `Release` 頁面中選擇你要的版本
 2. 展開下方 `Assets` 欄位
 3. 點擊`oskFilesVx.x.x.zip`下載連結
