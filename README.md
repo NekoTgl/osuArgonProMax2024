@@ -10,7 +10,7 @@
 3. 點擊`oskFilesVx.x.x.zip`下載連結
 4. 等待下載完畢並解壓縮獲得 `osu_ _Argon_ Pro Max (2024) Vx.x.x [Modified by Neko] (Tgl Studio)` 檔案
 5. 雙擊該 `.osk` 檔案或拖動進osu!(Lazer)視窗即安裝完畢。
-## 注意
+## 注意事項
 1. **絕對不要更改剛解壓縮出來的osk檔名，否則當匯入osu時skin名稱會出現錯誤。**
 2. 此Skin之V2.8.2或更低的版本已棄用，不再開放下載檔案。
 ## 相容性
