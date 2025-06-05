@@ -35,3 +35,6 @@
 ## 相容性．Compatibility
 - 從`V2.9.2`開始，相容性將標示於各版本說明中，`V2.9.1.2`及以前的版本不提供相容性資訊。  
   Starting from `V2.9.2`, compatibility information will be noted in each version’s description. Versions `V2.9.1.2` and earlier do not include compatibility details.
+## 語言．Language
+- 除了此`README.md之外`，各版本的說明將不會附上英文。如果你喜歡我的Skin，請多加利用瀏覽器的翻譯功能，造成不便敬請見諒。  
+  Apart from this `README.md`, the describe for each version will not include English translations. If you like my skin, please make good use of your browser’s translation feature. Apologies for any inconvenience caused.
