@@ -35,6 +35,8 @@
 ## 相容性．Compatibility
 - 從`V2.9.2`開始，相容性將標示於各版本說明中，`V2.9.1.2`及以前的版本不提供相容性資訊。  
   Starting from `V2.9.2`, compatibility information will be noted in each version’s description. Versions `V2.9.1.2` and earlier do not include compatibility details.
+- 強烈建議不要將遊戲更新通道設為`Tachyon`，當切換過去後內部元件會進行升級更動，並影響到Skin的所有元件。**如果從`Tachyon`版本切換回一般`Lazer`通道後，本Skin將完全無法使用！**  
+  It is strongly recommended not to set the game update channel to `Tachyon`. When switching to it, the internal components will be upgraded and changed, and all components of the skin will be affected. **If you switch from the `Tachyon` version back to the normal `Lazer` channel, this skin will be completely unusable!**
 ## 語言．Language
 - 除了此`README.md之外`，各版本的說明將不會附上英文。如果你喜歡我的Skin，請多加利用瀏覽器的翻譯功能，造成不便敬請見諒。  
   Apart from this `README.md`, the describe for each version will not include English translations. If you like my skin, please make good use of your browser’s translation feature. Apologies for any inconvenience caused.
