@@ -39,6 +39,8 @@
   This skin **does not** support the Tachyon update channel!!!
 - 本Skin不支援直立畫面遊玩。  
   This skin **does not** support portrait mode.
+- 本Skin不能保證與任何遊戲內建或是外部Mod的相容性，如使用後導致Skin檔案損毀或出現不正常顯示行為，恕不負責。  
+  This skin does not guarantee compatibility with any in-game or external mods. We are not responsible for any damage to the skin files or abnormal display behavior resulting from its use.
 ## 語言．Language
 - 除了此`README.md之外`，各版本的說明將不會附上英文。如果你喜歡我的Skin，請多加利用瀏覽器的翻譯功能，造成不便敬請見諒。  
   Apart from this `README.md`, the describe for each version will not include English translations. If you like my skin, please make good use of your browser’s translation feature. Apologies for any inconvenience caused.
