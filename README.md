@@ -1,8 +1,8 @@
 # osu! Argon Pro Max (2024)
 - 原作: Team osu!  
   Original: Team osu!
-- 二創: Neko Tgl  
-  Derivative Work: Neko Tgl
+- 二創: Tgl Studio  
+  Derivative Work: Tgl Studio
 
 ## 簡介．Introduction
 - 這是一個更專業的osu! Skin，基於 `osu! Argon Pro (2022)` 所製作。  
