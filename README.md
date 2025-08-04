@@ -29,8 +29,8 @@
    Versions V2.8.2 and below are deprecated and no longer available for download.
 
 ## 已知問題．Known Issues
-- 在osu! mania模式中各打擊數量(例如Perfect,Great...等等)若有三種以上超過1000x的話會與時間軸數字重疊，但由於此現象極為少見，且已無足夠空間進行UI微調，故暫時不做修正。  
-  In osu! mania mode, if there are more than three types of hit judgments (e.g., Perfect, Great, etc.) each exceeding 1000x, they may overlap with the timeline numbers. As this is a rare occurrence and there is insufficient space for UI adjustments, it will not be fixed for now.
+- V3.1.2已修正所有已知問題。  
+  V3.1.2 has fixed all known issues.
 
 ## 相容性．Compatibility
 - 從`V2.9.2`開始，相容性將標示於各版本說明中，`V2.9.1.2`及以前的版本不提供相容性資訊。  
