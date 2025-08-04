@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "DrawableInfo": {
+    "mania": [
+      {
+        "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.ColourHitErrorMeter, osu.Game, Version=2025.710.0.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -20.33966,
+          "y": -41.08441
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.9397118,
+          "y": 1.9397118
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 12,
+        "Origin": 12,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "judgement_count": 20,
+          "judgement_spacing": 2.0,
+          "judgement_shape": 0
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2025.710.0.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 47.1568,
+          "y": -61.852066
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": -1.6772379,
+          "y": 1.6772379
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 12,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "judgement_line_thickness": 4.0,
+          "colour_bar_visibility": true,
+          "show_moving_average": true,
+          "centre_marker_style": 1,
+          "label_style": 1
+        },
+        "Children": []
+      }
+    ],
+    "osu": [],
+    "taiko": [],
+    "fruits": []
+  }
+}
