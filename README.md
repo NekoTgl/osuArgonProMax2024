@@ -29,14 +29,14 @@
    Versions V2.8.2 and below are deprecated and no longer available for download.
 
 ## 已知問題．Known Issues
-- V3.1.2已修正所有已知問題。  
+- V3.1.2 已修正所有已知問題。  
   V3.1.2 has fixed all known issues.
 
 ## 相容性．Compatibility
 - 從`V2.9.2`開始，相容性將標示於各版本說明中，`V2.9.1.2`及以前的版本不提供相容性資訊。  
   Starting from `V2.9.2`, compatibility information will be noted in each version’s description. Versions `V2.9.1.2` and earlier do not include compatibility details.
 - 本Skin**完全不支援**`Tachyon`更新通道，如因切換通道導致Skin關鍵檔案損壞，恕不負責。  
-  This skin **does not** support the Tachyon update channel!!!
+  This skin **does not** support the `Tachyon` update channel!!! We are not responsible for any damage to the skin files caused by switching update channels.
 - 本Skin不支援直立畫面遊玩。  
   This skin **does not** support portrait mode.
 - 本Skin不能保證與任何遊戲內建或是外部Mod的相容性，如使用後導致Skin檔案損毀或出現不正常顯示行為，恕不負責。  
