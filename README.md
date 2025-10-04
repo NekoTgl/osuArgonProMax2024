@@ -25,7 +25,7 @@
 ## 注意事項．Warning
 1. **絕對不要更改剛解壓縮出來的osk檔名，否則當匯入osu時skin名稱會出現錯誤。**  
    **Never rename the extracted `.osk` file. Doing so will cause incorrect skin naming when imported into osu.**
-2. 此Skin之V2.8.2或更低的版本已棄用，不再開放下載檔案。  
+2. V2.8.2或更低的版本已棄用，不再開放下載檔案。  
    Versions V2.8.2 and below are deprecated and no longer available for download.
 
 ## 已知問題．Known Issues
