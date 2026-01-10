@@ -35,6 +35,8 @@
 ## 相容性．Compatibility
 - 從`V2.9.2`開始，相容性將標示於各版本說明中，`V2.9.1.2`及以前的版本不提供相容性資訊。  
   Starting from `V2.9.2`, compatibility information will be noted in each version’s description. Versions `V2.9.1.2` and earlier do not include compatibility details.
+- 本Skin至少需要`1920x1080`螢幕解析度，或更高解析度的`16:9`比例螢幕。低於所需解析度或非所需比例之螢幕可能會造成Skin跑版、損壞。
+  This skin requires a screen resolution of at least `1920x1080`, or a higher-resolution `16:9` aspect ratio screen. Screens with lower resolution or a different aspect ratio may cause layout issues or damage the skin.
 - 本Skin**完全不支援**`Tachyon`更新通道，如因切換通道導致Skin關鍵檔案損壞，恕不負責。  
   This skin **does not** support the `Tachyon` update channel!!! We are not responsible for any damage to the skin files caused by switching update channels.
 - 本Skin不支援直立畫面遊玩。  
